@@ -1,0 +1,412 @@
+body{
+margin: 0;
+}
+.container{
+    height: 100%;
+    width: 100%;
+}
+
+.nav{
+
+    height: 60px;
+    width: 100%;
+    background: black;
+    
+    
+}
+.nav1{
+    height: 100%;
+    width: 1520px;
+    margin: auto;
+    display: flex;
+
+}
+.nav-logo{
+    width: 200px;
+    height: 100%;
+  
+
+}
+.nav-mid{
+width: 554px;
+height: 100%;
+margin: auto;
+
+}
+.nav-mid1{
+    padding: 0;
+    
+}
+.nav-midl{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: roboto,Microsoft JhengHei,sans-serif;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    font-style: normal;
+
+    
+}
+
+
+.nav-right{
+    width: 236px;
+    height: 100%;
+    
+}
+.nav-right1{
+    padding: 0%;
+    
+
+}
+.nav-rightl{
+    padding-right: 20px;
+}
+
+.header-top-main1{
+    height: 40px;
+    background: red;
+}
+
+.htlmimg{
+width: 100%;
+}
+
+.htm1-1{
+
+    width: 388px;
+    height: 100%;
+    margin: auto;
+}
+
+.htmt{
+    height: 100%;
+    width: 285px;
+    margin: auto;
+    font-size: 14px;
+    display: flex;
+    color: #fff;
+}
+.header-top-main{
+    height: 780px;
+    width: 100%;
+    
+}
+
+.main-top-bar{
+    text-align: center;
+    margin-top: 85px;
+    margin-bottom: 56px;
+}
+
+.mtb{
+    margin-bottom: 90px;
+    height: 273px;
+    width: 100%;
+    
+}
+
+.mtb1{
+    margin: auto;
+    width: 1456px;
+   
+    height: 100%;
+    
+    display: flex;
+}
+
+.mtbt{
+    width: 232px; 
+    height: 232px; 
+    
+    margin-right: 32px; 
+    padding: 4px;             
+    padding-top: 4px;                 
+    padding-right: 4px;              
+    padding-bottom: 4px;            
+    padding-left: 4px; display: flex;           
+    flex-direction: column;
+}
+
+.mtbtt{
+    width: 232px; 
+    height: 232px; 
+    
+    margin-right: 32px; 
+    margin-left: 32px;
+    padding: 4px;             
+    padding-top: 4px;                 
+    padding-right: 4px;              
+    padding-bottom: 4px;            
+    padding-left: 4px; display: flex;           
+    flex-direction: column;
+}
+.mtbt1{
+    height: 174px; width: 100% ;
+}
+
+.mtbts{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 0;
+    color: #202020;
+    line-height: 1.5;
+    font-size: 22px;
+    font-family: roboto,Microsoft JhengHei,sans-serif;
+}
+.mtb3{
+    width: 100%;
+    height: 100%;
+}
+.main-middel-bar{
+    width: 100%;
+    height: 100%;
+    background: black;
+    margin-bottom: 80px;
+
+}
+
+.main-middel-bar1{
+    width: 1520px;
+    height: 100%;
+    margin: auto;
+    margin-top: 85px;
+    position: relative;
+    
+    
+}
+
+.mmb{
+    text-align: center;
+    margin-bottom: 36px;
+    color: #fff;
+}
+
+.mmb1{
+    height: 574px;
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.mmbc{
+    height: 100%;
+    width: 492px;
+    background: #e30017; 
+    margin-right: 22px;
+    display: flex;
+    flex-direction: column;
+}
+
+.mmbc-1{
+    height: 501px; 
+    width: 100%;
+}
+.mmbc-1-img{
+    width: 100%; 
+    height: 574px; 
+    object-fit: cover;
+}
+
+.mmbc-1-text{
+    height: 73px; 
+    width: 100%;  
+    color: white; 
+}
+.mmbc-1-text1{
+    padding-left:26px ; 
+    padding-right: 50px; 
+    padding-bottom: 30px; 
+    color: #fff;                            
+    font-size: 18px; 
+}
+
+.mmbc-1-text2{
+    color: #fff;                               
+    font-size: 13px;                            
+    font-weight: 500;                             
+    font-family: roboto,Microsoft JhengHei,sans-serif;
+}
+.mmbc1{
+    height: 100%;
+    width: 492px;
+    background: #e30017; 
+  
+}
+
+.mmb2{
+    height: 404px;
+    width: 100%;
+    margin-bottom: 20px;
+    
+    
+    display: flex;
+}
+.mmb2-11{
+    width: 750px;
+    height:100% ;
+    margin-right:20px ; 
+    display: flex; 
+    flex-direction: column;
+}
+.mmb2-1{
+    width: 100%; 
+    height: 331px;
+}
+.mmb2-img{
+    width:100%; 
+    height: 404px;
+}
+
+.mmbt{
+    color: red;
+    display: flex;
+    font-size: 18px;
+    margin: auto;
+    width: 140px;
+}
+
+.mmb-bd{
+width: 100%;
+height: 100%;
+position: absolute;
+}
+.main-footer{
+    
+    align-items: center;
+    margin: auto;
+    width: 202px;
+    margin-top: 165px;
+    margin-bottom: 55px;
+}
+
+.m-footer{
+    height: 332px ;
+    width: 1520px; 
+    margin: auto;
+    
+    margin-bottom: 50px; 
+    display: flex;
+}
+
+.m-footer1{
+    width: 490px; 
+    height: 100%;  
+    margin-right: 25px;
+}
+
+.m-footer1-1{
+    width: 490px; 
+    height: 100%;  
+   
+}
+
+.m-footer2{
+    height: 256px; 
+    width: 100%; 
+    display: flex ; 
+    flex-direction: column;
+}
+.m-footer2-img{
+    height: 100%; 
+    width: 100%; 
+}
+
+.m-footer3{
+    margin-top: 15px; 
+    height: 61px; 
+    width: 100%;
+}
+
+.m-footer3-s{
+    font-family: roboto,Microsoft JhengHei,sans-serif;                  
+    font-size: 14px;                       
+    font-style: normal;                       
+    font-weight: 600;                       
+    line-height: 14px;                     
+    color: #e30017;
+}
+
+.m-footer3-s1{ 
+    margin-top: 4px;                  
+    font-size: 17px;                   
+    color: #202020;                 
+    white-space: nowrap;                    
+    font-family: roboto,Microsoft JhengHei,sans-serif;
+                    
+}
+
+.fb{
+    align-items: center;
+        width: 127px;
+        margin: auto;
+        color: #e30017;
+        display: flex;
+        margin-bottom: 80px;
+}
+
+.fb1{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+}
+.fb2{
+    width: 1600px;
+    margin: auto;
+    height: 500px;
+    position: relative;
+    display: flex;
+    align-items: center;
+            
+}
+
+.fb3{
+   width: 600px;height:115px ;
+   position: absolute;
+    
+    right: 0;
+    color: white;
+    
+}
+
+.fb4{
+    color: #fff;    
+    font-size: 36px;
+    font-family: tradegothicltpro,roboto,Microsoft JhengHei,sans-serif; font-weight: 1000;
+}
+
+.fb5{
+    font-size: 15px;
+    font-family: roboto,Microsoft JhengHei,sans-serif;            
+    font-weight: 400;           
+    height: 100%;
+    margin: 0;   
+    width: 100%;
+}
+
+
+.footer-middle{
+    height: 520px;
+    width: 100%;
+}
+.footer-bar-img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.fbimg{
+    width: 100%; 
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+.footer-bar-m-m{
+    position: relative;
+    
+    height: 100%;
+  margin: auto;
+  width: 1560px;
+}
